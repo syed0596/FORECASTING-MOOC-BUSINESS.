@@ -1,7 +1,9 @@
-# FORECASTING-MOOC-BUSINESS
-![MOOC-prediction](rplot2.JPG)
+# Time Series analysis and forecasting MOOC
 A Time-Series analysis for years 2012-2016 using R, including different Online Course Participants around the globe .
 This stochastic time-series graph was obtained from a rich data of over 640K unique users.
+
+![MOOC-prediction](rplot2.JPG)
+
 It can be observed that "computer science" remained to be favorite among the participants throughout, and incredibly reached a peak of 300K in late 2014.
 
 ![MOOC-prediction](rr10.JPG)
