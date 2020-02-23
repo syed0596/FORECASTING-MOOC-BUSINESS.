@@ -1,5 +1,6 @@
 # FORECASTING-MOOC-BUSINESS
-![MOOC-prediction](link-to-image)
+![MOOC-prediction](rplot2.JPG)
+
 All thanks to HarvardX and MITx for the awesome data!
 
 # Citations
