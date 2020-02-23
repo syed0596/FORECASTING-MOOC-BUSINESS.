@@ -1,5 +1,5 @@
 # Time Series analysis and forecasting MOOC
-A Time-Series analysis for years 2012-2016 using R, including different Online Course Participants around the globe .
+A Time-Series analysis and forecasting of different Open Online Course Participants around the globe for years 2012-2016 using R.
 This stochastic time-series graph was obtained from a rich data of over 640K unique users.
 
 ![MOOC-prediction](rplot2.JPG)
